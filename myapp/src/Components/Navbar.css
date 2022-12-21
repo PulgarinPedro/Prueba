@@ -1,0 +1,15 @@
+ul {
+    list-style: none;  
+    background-color: wheat;
+}
+
+li { 
+    background: rosybrown;
+    display: inline-block;
+    margin: 10px;
+
+}
+
+.navlink { 
+    text-decoration: none;
+}
